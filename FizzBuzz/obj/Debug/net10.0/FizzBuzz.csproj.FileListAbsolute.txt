@@ -12,3 +12,4 @@ C:\Users\the_g\OneDrive\Desktop\Repos\FizzBuzz\FizzBuzz\obj\Debug\net10.0\refint
 C:\Users\the_g\OneDrive\Desktop\Repos\FizzBuzz\FizzBuzz\obj\Debug\net10.0\FizzBuzz.pdb
 C:\Users\the_g\OneDrive\Desktop\Repos\FizzBuzz\FizzBuzz\obj\Debug\net10.0\FizzBuzz.genruntimeconfig.cache
 C:\Users\the_g\OneDrive\Desktop\Repos\FizzBuzz\FizzBuzz\obj\Debug\net10.0\ref\FizzBuzz.dll
+C:\Users\the_g\OneDrive\Desktop\Repos\FizzBuzz\FizzBuzz\obj\Debug\net10.0\FizzBuzz.sourcelink.json
